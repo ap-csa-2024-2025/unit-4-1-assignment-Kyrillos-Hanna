@@ -44,5 +44,7 @@ public class Main
       }
       index++;
     }
+    System.out.println();
+    sc.close();
   }
 }
